@@ -6,7 +6,7 @@ import Deliverd from "./imports/components/delivered/delivered";
 import New from "./imports/components/new/new";
 import Delivery from "./imports/components/delievry/delivery";
 import Nearest from "./imports/components/nearestCity/nearestCity";
-import Popular from "./imports/components/popular /popular";
+import Popular from "./imports/components/popular/popular";
 import Footer from "./imports/components/footer/footer";
 
 function App() {

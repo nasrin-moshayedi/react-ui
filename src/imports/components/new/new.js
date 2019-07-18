@@ -3,7 +3,7 @@ import Card from "./../public/card";
 var data = require("./../../../menu.json");
 
 for (var i = 0; i < data.length; i++) {}
-function Deliverd(props) {
+function New(props) {
   return (
     <div className="style">
       <p
@@ -38,4 +38,4 @@ function Deliverd(props) {
   );
 }
 
-export default Deliverd;
+export default New;

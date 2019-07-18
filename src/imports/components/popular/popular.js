@@ -1,7 +1,7 @@
 import React from "react";
 var data = require("./../../../menu.json");
 
-function Nearest() {
+function Popular() {
   return (
     <div style={{ margin: "0 80px" }}>
       <div className="textStyle">Explore Popular Categories</div>
@@ -17,4 +17,4 @@ function Nearest() {
   );
 }
 
-export default Nearest;
+export default Popular;

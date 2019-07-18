@@ -24,7 +24,7 @@ function AppDown() {
   );
 }
 
-function Deliverd(props) {
+function Delivery(props) {
   return (
     <div className="style">
       <p className="headerCard">{props.title}</p>
@@ -78,4 +78,4 @@ function Deliverd(props) {
   );
 }
 
-export default Deliverd;
+export default Delivery;

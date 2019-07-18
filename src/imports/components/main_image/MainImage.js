@@ -1,6 +1,6 @@
 import React from "react";
 
-function Menu() {
+function MainImage() {
   return (
     <div className="imageMain">
       <img
@@ -48,4 +48,4 @@ function Menu() {
   );
 }
 
-export default Menu;
+export default MainImage;
